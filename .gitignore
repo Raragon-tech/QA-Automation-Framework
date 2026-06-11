@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+node_modules/
+auth/
+storageState/
+=======
 # Logs
 logs
 *.log
@@ -137,3 +150,4 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+>>>>>>> 9aae5cf596ab92a40a799ed342f784d996571c8a
